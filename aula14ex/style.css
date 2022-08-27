@@ -14,11 +14,12 @@ body {
 h1 {
     text-align: center;
     color: white;
+    margin-bottom: 20px;
 }
 
 section {
     background-color: white;
-    width: 600px;
+    width: 700px;
     display: block;
     margin: auto;
     padding: 10px;
