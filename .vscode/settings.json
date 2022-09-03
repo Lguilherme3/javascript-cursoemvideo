@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "javascript-cursoemvideo"
+    "liveServer.settings.multiRootWorkspaceName": "javascript-cursoemvideo",
+    "liveServer.settings.port": 5501
 }
